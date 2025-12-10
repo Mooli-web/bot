@@ -1,0 +1,8 @@
+/.venv
+/pycache__
+*.pyc
+.DS_Store   
+/target
+Cargo.lock
+Cargo.toml
+/data
